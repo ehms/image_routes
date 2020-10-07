@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "gsap": "^3.5.1",
+    "plyr": "^3.6.2",
+    "vue": "^2.6.11",
+    "vue-plyr": "^6.0.4",
+    "vuex": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
